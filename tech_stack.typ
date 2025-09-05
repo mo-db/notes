@@ -22,4 +22,6 @@
 
 = audio
 - Ableton
+  - Phaseplant
+  - Repro 1/5
 - Max/Msp
